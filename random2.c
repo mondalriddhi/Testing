@@ -9,4 +9,5 @@ void main()
 {
 int i=20;
 display(i);
+printf("Good to see");
 }
